@@ -1,11 +1,11 @@
-package com.jsystems.testautomation.tests;
+package com.jsystems.testautomation.frontedFactory.tests;
 
 import com.jsystems.testautomation.Configuration;
-import com.jsystems.testautomation.FrontendConfig;
-import com.jsystems.testautomation.pages.LoginPageEmail;
-import com.jsystems.testautomation.pages.LoginPasswordPage;
-import com.jsystems.testautomation.pages.MainLogedPage;
-import com.jsystems.testautomation.pages.MainPage;
+import com.jsystems.testautomation.frontedFactory.pages.FrontendConfig;
+import com.jsystems.testautomation.frontedFactory.pages.LoginPageEmail;
+import com.jsystems.testautomation.frontedFactory.pages.LoginPasswordPage;
+import com.jsystems.testautomation.frontedFactory.pages.MainLogedPage;
+import com.jsystems.testautomation.frontedFactory.pages.MainPage;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

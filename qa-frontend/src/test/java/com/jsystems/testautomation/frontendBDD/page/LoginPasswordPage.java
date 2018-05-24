@@ -1,4 +1,4 @@
-package com.jsystems.testautomation.pages;
+package com.jsystems.testautomation.frontendBDD.page;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

@@ -1,6 +1,6 @@
-package com.jsystems.testautomation.pages;
+package com.jsystems.testautomation.frontedFactory.pages;
 
-import com.jsystems.testautomation.TestDataHelper;
+import com.jsystems.testautomation.frontedFactory.TestDataHelper;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

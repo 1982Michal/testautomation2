@@ -1,5 +1,6 @@
-package com.jsystems.testautomation.pages;
+package com.jsystems.testautomation.frontendBDD.page;
 
+import com.jsystems.testautomation.frontedFactory.pages.BasePage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
