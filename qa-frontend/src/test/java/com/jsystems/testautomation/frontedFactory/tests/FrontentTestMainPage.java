@@ -22,7 +22,7 @@ public class FrontentTestMainPage extends FrontendConfig {
 
         driver.get("https://wordpress.com/");
         mainPage = new MainPage(driver);
-        mainPage.isContentPresent();
+     //   mainPage.isContentPresent();
 
 
     }
