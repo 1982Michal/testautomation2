@@ -254,6 +254,7 @@ public class ApiTest {
                 .body()
                 .as(FakeBook.class);
 
+
     }
 }
 
